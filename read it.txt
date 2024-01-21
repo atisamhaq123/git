@@ -1,0 +1,5 @@
+first: git init, make files, git add --a >>now they staged
+2nd: do some changes in one of files     >>now the same file will be in staging area and working directory
+3rd: run just git diff
+
+//now u can see changes: what added or deleted
