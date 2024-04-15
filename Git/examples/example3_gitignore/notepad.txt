@@ -1,0 +1,6 @@
+>> touch .gitignore
+>> add directory name which u want to ignore like >>>>>>   log/
+>> add extension of files which u want to ignore >>>>>  *.log
+
+
+>> Now these files are directories will not be tracked and ignored everytime

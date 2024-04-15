@@ -1,0 +1,6 @@
+first: git init, make files, git add --a >>now they staged
+2nd: do some changes in one of files     >>file goes in working area.i.e. modified; now the same file will be in staging area and working directory.
+     latest modified file is not staged, old one is staged, so u can:
+3rd: run just >> git diff
+
+//now u can see changes: what added or deleted
